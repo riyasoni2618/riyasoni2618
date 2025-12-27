@@ -6,68 +6,50 @@ About Me
 Hi, I’m Riya Soni, a Computer Science undergraduate (2023–2027) with a strong foundation in full-stack web development.
 I focus on building secure, scalable, and user-centric applications using modern frontend and backend technologies.
 
-Currently working on real-world MERN applications
+Working on real-world MERN applications
 
 Strong understanding of REST APIs & authentication
 
-Passionate about clean UI, performance & backend logic
+Focused on clean UI, performance & backend logic
 
 Open to internships, projects & collaborative learning
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> </div>
 Featured Projects
-<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">Student Job Portal</h3> <div align="center"> <a href="https://github.com/riyasoni2618/JOB-PORTAL-"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300"/> </a> <br><br> <p> Full-stack MERN application where students apply for jobs and employers manage listings.<br> Secure authentication, resume upload & role-based access. </p> <strong>Tech:</strong> MongoDB, Express, React, Node.js, JWT, Tailwind, Cloudinary </div> </td> <td width="50%"> <h3 align="center">Student Admission System</h3> <div align="center"> <a href="https://admission-process-sr5l.vercel.app/"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300"/> </a> <br><br> <p> Web-based admission workflow system with responsive UI and smooth user experience. </p> <strong>Tech:</strong> React.js, Node.js, Express.js, MongoDB, Tailwind CSS </div> </td> </tr> </table> </div>
-Technical Expertise
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> </div>
-Frontend Development
-
-React.js (Component-driven architecture, hooks, state management)
-
-Tailwind CSS (Responsive UI, design systems)
-
-GSAP (Timeline-based animations, scroll interactions)
-
-Backend Development
-
-Node.js & Express.js (REST APIs, middleware, authentication)
-
-MongoDB & MySQL (Schema design, CRUD, relational & non-relational data)
-
-JWT Authentication (Secure session handling)
-
-WebSockets (Real-time communication)
-
+<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">Student Job Portal</h3> <div align="center"> <a href="https://github.com/riyasoni2618/JOB-PORTAL-"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300"/> </a> <br><br> <p> Full-stack MERN application where students apply for jobs and employers manage listings.<br> Secure authentication, resume upload, and role-based access. </p> <strong>Tech:</strong> MongoDB, Express.js, React.js, Node.js, JWT, Tailwind CSS, Cloudinary </div> </td> <td width="50%"> <h3 align="center">Student Admission System</h3> <div align="center"> <a href="https://admission-process-sr5l.vercel.app/"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300"/> </a> <br><br> <p> Web-based admission workflow system with a responsive UI and smooth user experience. </p> <strong>Tech:</strong> React.js, Node.js, Express.js, MongoDB, Tailwind CSS </div> </td> </tr> </table> </div>
+Skills & Technologies
+Frontend
+<div align="left"> <img src="https://skillicons.dev/icons?i=react,tailwind,javascript,html,css,gsap" /> </div>
+Backend
+<div align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </div>
 Programming & Core CS
-
-JavaScript (ES6+)
-
-Java
+<div align="left"> <img src="https://skillicons.dev/icons?i=javascript,java" /> </div>
 
 Data Structures & Algorithms
 
-Object-Oriented Programming (OOP principles)
+Object-Oriented Programming (OOP)
 
 Tools & Platforms
+<div align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma" /> </div>
+Integrations & APIs
+<div align="left"> <img src="https://skillicons.dev/icons?i=cloudinary" /> </div>
 
-Git & GitHub (Version control, collaboration)
+JWT Authentication
 
-Postman (API testing & debugging)
+WebSockets
 
-Figma (UI/UX collaboration)
+OpenAI API
 
-Cloudinary (Media storage & optimization)
-
-OpenAI API (AI-powered feature integration)
-
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql,git,figma,postman" /> </div>
 Education
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ABES Engineering College
 Bachelor of Technology — Computer Science
 2023 – 2027
 
 Focused on software engineering fundamentals, full-stack development, and real-world project implementation.
+
+<br/>
 
 Canossa Convent Girls Inter College, Ayodhya
 Intermediate & High School
