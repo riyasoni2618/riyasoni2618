@@ -17,30 +17,27 @@ Open to internships, projects & collaborative learning
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> </div>
 Featured Projects
 <div align="center"> <table> <tr> <td width="50%"> <h3 align="center">Student Job Portal</h3> <div align="center"> <a href="https://github.com/riyasoni2618/JOB-PORTAL-"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300"/> </a> <br><br> <p> Full-stack MERN application where students apply for jobs and employers manage listings.<br> Secure authentication, resume upload & role-based access. </p> <strong>Tech:</strong> MongoDB, Express, React, Node.js, JWT, Tailwind, Cloudinary </div> </td> <td width="50%"> <h3 align="center">Student Admission System</h3> <div align="center"> <a href="https://admission-process-sr5l.vercel.app/"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300"/> </a> <br><br> <p> Web-based admission workflow system with responsive UI and smooth user experience. </p> <strong>Tech:</strong> React.js, Node.js, Express.js, MongoDB, Tailwind CSS </div> </td> </tr> </table> </div>
-Technical Skills
-Frontend
+Technical Expertise
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> </div>
+Frontend Development
 
-React.js
+React.js (Component-driven architecture, hooks, state management)
 
-Tailwind CSS
+Tailwind CSS (Responsive UI, design systems)
 
-GSAP (Animations)
+GSAP (Timeline-based animations, scroll interactions)
 
-Backend
+Backend Development
 
-Node.js
+Node.js & Express.js (REST APIs, middleware, authentication)
 
-Express.js
+MongoDB & MySQL (Schema design, CRUD, relational & non-relational data)
 
-MongoDB
+JWT Authentication (Secure session handling)
 
-MySQL
+WebSockets (Real-time communication)
 
-JWT Authentication
-
-WebSockets
-
-Programming & CS Fundamentals
+Programming & Core CS
 
 JavaScript (ES6+)
 
@@ -48,31 +45,34 @@ Java
 
 Data Structures & Algorithms
 
-Object-Oriented Programming (OOP)
+Object-Oriented Programming (OOP principles)
 
 Tools & Platforms
 
-Git & GitHub
+Git & GitHub (Version control, collaboration)
 
-Postman
+Postman (API testing & debugging)
 
-Figma
+Figma (UI/UX collaboration)
 
-Cloudinary
+Cloudinary (Media storage & optimization)
 
-OpenAI API
+OpenAI API (AI-powered feature integration)
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql,git,figma,postman" /> </div>
 Education
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ABES Engineering College
 Bachelor of Technology — Computer Science
 2023 – 2027
 
+Focused on software engineering fundamentals, full-stack development, and real-world project implementation.
+
 Canossa Convent Girls Inter College, Ayodhya
 Intermediate & High School
 
-Certifications & Activities
+Certifications & Engagement
 
 AWS Academy Graduate — Cloud Foundations
 
@@ -83,18 +83,18 @@ Hackfest by GeeksforGeeks — Participant
 Aurora Hackathon — Team Contributor
 
 Core Member — DataVerse Technical Club
-Organizing technical workshops & coding events
+Actively involved in organizing coding events, workshops, and peer learning initiatives.
 
-Vision & Goals
+Professional Outlook
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-5c1c-4ca4-82d3-6dca6c1fada3.gif" width="420"> </div>
 
-Strengthen full-stack expertise
+Build production-grade, scalable full-stack applications
 
-Build scalable, production-ready applications
+Strengthen backend architecture & system design skills
 
-Gain industry experience through impactful projects
+Gain industry exposure through impactful internships
 
-Grow as a disciplined and consistent software engineer
+Grow into a disciplined, high-quality software engineer
 
 Contact
 
