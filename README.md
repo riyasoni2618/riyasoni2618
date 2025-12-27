@@ -19,41 +19,17 @@ Featured Projects
 <div align="center"> <table> <tr> <td width="50%"> <h3 align="center">Student Job Portal</h3> <div align="center"> <a href="https://github.com/riyasoni2618/JOB-PORTAL-"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300"/> </a> <br><br> <p> Full-stack MERN application where students apply for jobs and employers manage listings.<br> Secure authentication, resume upload, and role-based access. </p> <strong>Tech:</strong> MongoDB, Express.js, React.js, Node.js, JWT, Tailwind CSS, Cloudinary </div> </td> <td width="50%"> <h3 align="center">Student Admission System</h3> <div align="center"> <a href="https://admission-process-sr5l.vercel.app/"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300"/> </a> <br><br> <p> Web-based admission workflow system with a responsive UI and smooth user experience. </p> <strong>Tech:</strong> React.js, Node.js, Express.js, MongoDB, Tailwind CSS </div> </td> </tr> </table> </div>
 Skills & Technologies
 Frontend
-<div align="left"> <img src="https://skillicons.dev/icons?i=react,tailwind,javascript,html,css,gsap" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,javascript,html,css,gsap" /> </div>
 Backend
-<div align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </div>
 Programming & Core CS
-<div align="left"> <img src="https://skillicons.dev/icons?i=javascript,java" /> </div>
-
-Data Structures & Algorithms
-
-Object-Oriented Programming (OOP)
-
+<div align="center"> <img src="https://skillicons.dev/icons?i=javascript,java" /> </div> <div align="center"> Data Structures & Algorithms • Object-Oriented Programming (OOP) </div>
 Tools & Platforms
-<div align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma" /> </div>
 Integrations & APIs
-<div align="left"> <img src="https://skillicons.dev/icons?i=cloudinary" /> </div>
-
-JWT Authentication
-
-WebSockets
-
-OpenAI API
-
+<div align="center"> <img src="https://skillicons.dev/icons?i=cloudinary" /> </div> <div align="center"> JWT Authentication • WebSockets • OpenAI API </div>
 Education
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-ABES Engineering College
-Bachelor of Technology — Computer Science
-2023 – 2027
-
-Focused on software engineering fundamentals, full-stack development, and real-world project implementation.
-
-<br/>
-
-Canossa Convent Girls Inter College, Ayodhya
-Intermediate & High School
-
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/> </div> <div align="center"> <h3>ABES Engineering College</h3> <strong>Bachelor of Technology — Computer Science</strong><br/> <span>2023 – 2027</span><br/><br/> Building strong foundations in software engineering, full-stack development, and real-world problem solving. </div> <br/> <div align="center"> <h4>Canossa Convent Girls Inter College, Ayodhya</h4> Intermediate & High School </div>
 Certifications & Engagement
 
 AWS Academy Graduate — Cloud Foundations
@@ -65,23 +41,9 @@ Hackfest by GeeksforGeeks — Participant
 Aurora Hackathon — Team Contributor
 
 Core Member — DataVerse Technical Club
-Actively involved in organizing coding events, workshops, and peer learning initiatives.
+Organizing workshops, coding events, and peer learning initiatives.
 
 Professional Outlook
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-5c1c-4ca4-82d3-6dca6c1fada3.gif" width="420"> </div>
-
-Build production-grade, scalable full-stack applications
-
-Strengthen backend architecture & system design skills
-
-Gain industry exposure through impactful internships
-
-Grow into a disciplined, high-quality software engineer
-
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-5c1c-4ca4-82d3-6dca6c1fada3.gif" width="420"> </div> <div align="center"> Build scalable applications • Strengthen backend architecture • Gain industry exposure • Grow as a software engineer </div>
 Contact
-
-Email: riyaasoni178@gmail.com
-
-Location: Ayodhya, India
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/> </div>
+<div align="center"> 📧 **riyaasoni178@gmail.com** &nbsp;&nbsp;|&nbsp;&nbsp; 📍 **Ayodhya, India** </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/> </div>
