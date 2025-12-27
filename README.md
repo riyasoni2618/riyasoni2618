@@ -28,22 +28,12 @@ Tools & Platforms
 <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma" /> </div>
 Integrations & APIs
 <div align="center"> <img src="https://skillicons.dev/icons?i=cloudinary" /> </div> <div align="center"> JWT Authentication • WebSockets • OpenAI API </div>
-Education
+
+🎓 Academic Background
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/> </div> <div align="center"> <h3>ABES Engineering College</h3> <strong>Bachelor of Technology — Computer Science</strong><br/> <span>2023 – 2027</span><br/><br/> Building strong foundations in software engineering, full-stack development, and real-world problem solving. </div> <br/> <div align="center"> <h4>Canossa Convent Girls Inter College, Ayodhya</h4> Intermediate & High School </div>
-Certifications & Engagement
 
-AWS Academy Graduate — Cloud Foundations
 
-Infosys Springboard — Basics of Python
-
-Hackfest by GeeksforGeeks — Participant
-
-Aurora Hackathon — Team Contributor
-
-Core Member — DataVerse Technical Club
-Organizing workshops, coding events, and peer learning initiatives.
-
-Professional Outlook
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-5c1c-4ca4-82d3-6dca6c1fada3.gif" width="420"> </div> <div align="center"> Build scalable applications • Strengthen backend architecture • Gain industry exposure • Grow as a software engineer </div>
-Contact
-<div align="center"> 📧 **riyaasoni178@gmail.com** &nbsp;&nbsp;|&nbsp;&nbsp; 📍 **Ayodhya, India** </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/> </div>
+📜 Certifications & Engagement
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-5c1c-4ca4-82d3-6dca6c1fada3.gif" width="420"> </div> <div align="center"> <table> <tr> <td align="center">AWS Academy Graduate<br/><strong>Cloud Foundations</strong></td> <td align="center">Infosys Springboard<br/><strong>Basics of Python</strong></td> </tr> <tr> <td align="center">Hackfest by GFG<br/><strong>Participant</strong></td> <td align="center">Aurora Hackathon<br/><strong>Team Contributor</strong></td> </tr> </table> </div> <br/> <div align="center"> <strong>Core Member — DataVerse Technical Club</strong><br/> Organizing workshops, coding events, and peer learning initiatives </div>
+🚀 Professional Outlook
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="850"> </div> <div align="center"> <strong> Build scalable systems &nbsp;•&nbsp; Strengthen backend architecture &nbsp;•&nbsp; Gain real-world industry experience &nbsp;•&nbsp; Grow into a disciplined software engineer </strong> </div>
