@@ -1,4 +1,4 @@
-👩‍💻 Riya Soni — Full Stack Developer | MERN Stack Enthusiast
+<div align="center"><h1>👩‍💻 Riya Soni — Full Stack Developer | MERN Stack Enthusiast</h1></div>
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications;Always+Learning+%26+Improving" /> </div>
 About Me
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
