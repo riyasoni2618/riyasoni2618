@@ -1,20 +1,24 @@
-👩‍💻 Riya Soni — Full Stack Developer (MERN)
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+%26+Improving" /> </div>
-🚀 About Me
+👩‍💻 Riya Soni — Full Stack Developer | MERN Stack Enthusiast
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications;Always+Learning+%26+Improving" /> </div>
+About Me
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-Hi, I’m Riya Soni, a Computer Science undergraduate (2023–2027) with hands-on experience in full-stack web development.
-I enjoy building secure, scalable, and user-focused applications using modern frontend and backend technologies.
+Hi, I’m Riya Soni, a Computer Science undergraduate (2023–2027) with a strong foundation in full-stack web development.
+I focus on building secure, scalable, and user-centric applications using modern frontend and backend technologies.
 
-💻 MERN Stack Developer
+Currently working on real-world MERN applications
 
-🌱 Exploring system design, real-world APIs & scalable architectures
+Strong understanding of REST APIs & authentication
 
-🤝 Open to internships, projects & collaborative learning
+Passionate about clean UI, performance & backend logic
 
-🎯 Focused on clean code, performance & usability
+Open to internships, projects & collaborative learning
 
-🛠️ Technical Skills
-🎨 Frontend
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> </div>
+Featured Projects
+<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">Student Job Portal</h3> <div align="center"> <a href="https://github.com/riyasoni2618/JOB-PORTAL-"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300"/> </a> <br><br> <p> Full-stack MERN application where students apply for jobs and employers manage listings.<br> Secure authentication, resume upload & role-based access. </p> <strong>Tech:</strong> MongoDB, Express, React, Node.js, JWT, Tailwind, Cloudinary </div> </td> <td width="50%"> <h3 align="center">Student Admission System</h3> <div align="center"> <a href="https://admission-process-sr5l.vercel.app/"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300"/> </a> <br><br> <p> Web-based admission workflow system with responsive UI and smooth user experience. </p> <strong>Tech:</strong> React.js, Node.js, Express.js, MongoDB, Tailwind CSS </div> </td> </tr> </table> </div>
+Technical Skills
+Frontend
 
 React.js
 
@@ -22,7 +26,7 @@ Tailwind CSS
 
 GSAP (Animations)
 
-⚙️ Backend
+Backend
 
 Node.js
 
@@ -36,7 +40,7 @@ JWT Authentication
 
 WebSockets
 
-🧠 Programming & CS Fundamentals
+Programming & CS Fundamentals
 
 JavaScript (ES6+)
 
@@ -46,7 +50,7 @@ Data Structures & Algorithms
 
 Object-Oriented Programming (OOP)
 
-🔧 Tools & Platforms
+Tools & Platforms
 
 Git & GitHub
 
@@ -58,49 +62,17 @@ Cloudinary
 
 OpenAI API
 
-🏆 Projects
-🎓 Student Job Portal (MERN Stack)
-
-🔗 GitHub Repository:
-👉 https://github.com/riyasoni2618/JOB-PORTAL-
-
-Description:
-
-Full-stack platform where students can create profiles, upload resumes, and apply for jobs
-
-Employers can post jobs, manage listings, and review applications
-
-Secure authentication using JWT
-
-Tech Used:
-MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JWT, Cloudinary
-
-🏫 Student Admission Process System
-
-🔗 Live Project:
-👉 https://admission-process-sr5l.vercel.app/
-
-Description:
-
-Web-based admission management system
-
-Streamlined student application workflow
-
-Clean UI with responsive design
-
-Tech Used:
-React.js, Node.js, Express.js, MongoDB, Tailwind CSS
-
-🎓 Education
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql,git,figma,postman" /> </div>
+Education
 
 ABES Engineering College
 Bachelor of Technology — Computer Science
-📅 2023 – 2027
+2023 – 2027
 
 Canossa Convent Girls Inter College, Ayodhya
 Intermediate & High School
 
-🏅 Certifications & Achievements
+Certifications & Activities
 
 AWS Academy Graduate — Cloud Foundations
 
@@ -110,18 +82,24 @@ Hackfest by GeeksforGeeks — Participant
 
 Aurora Hackathon — Team Contributor
 
-🤝 Extracurricular Activities
-
 Core Member — DataVerse Technical Club
-Organizing workshops and coding events
+Organizing technical workshops & coding events
 
-Core Member — SYC Club
-Participated in wellness and awareness initiatives
+Vision & Goals
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-5c1c-4ca4-82d3-6dca6c1fada3.gif" width="420"> </div>
 
-🌐 Contact
+Strengthen full-stack expertise
 
-📧 Email: riyaasoni178@gmail.com
+Build scalable, production-ready applications
 
-📍 Location: Ayodhya, India
+Gain industry experience through impactful projects
 
-<div align="center"> <h3>✨ “Consistency builds competence.”</h3> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div>
+Grow as a disciplined and consistent software engineer
+
+Contact
+
+Email: riyaasoni178@gmail.com
+
+Location: Ayodhya, India
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/> </div>
