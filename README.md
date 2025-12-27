@@ -43,7 +43,7 @@ Tools & Platforms
 Integrations & APIs
 <div align="center"> <img src="https://skillicons.dev/icons?i=cloudinary" /> </div> <div align="center"> JWT Authentication • WebSockets • OpenAI API </div>
 🎓 Academic Background
-<div align="center"> <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/0270ace0-960d-4d6b-97be-6e98bbb898db" />
+<div align="center"> <img width="960" height="720" alt="image" src="https://code-b.dev/blog/full-stack-developer-vs-software-engineer.gif" />
  </div> <div align="center"> <h3>ABES Engineering College</h3> <strong>Bachelor of Technology — Computer Science</strong><br/> <span>2023 – 2027</span><br/><br/> Building strong foundations in software engineering, full-stack development, and real-world problem solving. </div> <br/> <div align="center"> <h4>Canossa Convent Girls Inter College, Ayodhya</h4> Intermediate & High School </div>
 📜 Certifications & Engagement
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-5c1c-4ca4-82d3-6dca6c1fada3.gif" width="420"> </div> <div align="center"> <table> <tr> <td align="center"><strong>AWS Academy</strong><br/>Cloud Foundations</td> <td align="center"><strong>Infosys Springboard</strong><br/>Basics of Python</td> </tr> <tr> <td align="center"><strong>Hackfest (GFG)</strong><br/>Participant</td> <td align="center"><strong>Aurora Hackathon</strong><br/>Team Contributor</td> </tr> </table> </div> <br/> <div align="center"> <strong>Core Member — DataVerse Technical Club</strong><br/> Organizing workshops, coding events, and peer learning initiatives </div>
